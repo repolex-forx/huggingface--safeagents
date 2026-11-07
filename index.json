@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "safeagents",
+  "versions": [
+    {
+      "commit": "0de8e22d2345b2379779161abbbffa72738a78a2",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:55:04.181618+00:00"
+    }
+  ]
+}
